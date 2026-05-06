@@ -49,7 +49,11 @@
 </p>
 
 ---
+## My GitHub Snake 🐍
 
+![snake gif](https://raw.githubusercontent.com/tienoho/tienoho/output/github-contribution-grid-snake.svg)
+
+---
 ## 🚀 Featured Projects
 - [**Vehicle Incident Report System**](https://github.com/tienoho/vehicle-incident-report)  
   Ứng dụng quản lý và theo dõi sự cố phương tiện, tích hợp .NET 8 + PostgreSQL + Redis cache.  
